@@ -1,7 +1,7 @@
 Cookie
 ======
 
-This project is only used to provide proof that cookies written in Mobile Safir for a domain are not accesible via a UIWebView in an iOS app.
+This project is only used to provide proof that cookies written in Mobile Safari for a domain are not accesible via a UIWebView in an iOS app.
 
 To run the test…
 
